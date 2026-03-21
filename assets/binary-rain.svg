@@ -1,201 +1,181 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="900" height="160">
+  <rect width="900" height="160" fill="#000000"/>
+  <path d="M0,130 C200,110 400,145 600,125 C750,110 850,135 900,130 L900,160 L0,160 Z" fill="#0d2b00" opacity="0.9"/>
 
-  <!-- Black background -->
-  <rect width="900" height="220" fill="#000000"/>
-
-  <!-- Wave shape at bottom (decorative) -->
-  <path d="M0,180 C150,220 300,160 450,190 C600,220 750,170 900,200 L900,220 L0,220 Z" fill="#0d2b00" opacity="0.6"/>
-
-  <!-- ── BINARY RAIN COLUMNS (44 columns, 3 depth levels) ── -->
-
-  <g fill="#39ff14" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="0s" repeatCount="indefinite"/>
-    <text x="10" y="20">1</text><text x="10" y="35">0</text><text x="10" y="50">1</text><text x="10" y="65">1</text><text x="10" y="80">0</text><text x="10" y="95">1</text>
+  <g fill="#39ff14" font-family="monospace" font-size="12" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="0s" repeatCount="indefinite"/>
+    <text x="10" y="20">1</text><text x="10" y="36">0</text><text x="10" y="52">1</text><text x="10" y="68">1</text><text x="10" y="84">0</text>
   </g>
   <g fill="#0d5008" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="0.4s" repeatCount="indefinite"/>
-    <text x="30" y="20">0</text><text x="30" y="35">1</text><text x="30" y="50">0</text><text x="30" y="65">0</text><text x="30" y="80">1</text><text x="30" y="95">0</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="0.4s" repeatCount="indefinite"/>
+    <text x="30" y="20">0</text><text x="30" y="36">1</text><text x="30" y="52">0</text><text x="30" y="68">0</text><text x="30" y="84">1</text>
   </g>
   <g fill="#20a010" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="0.9s" repeatCount="indefinite"/>
-    <text x="50" y="20">1</text><text x="50" y="35">1</text><text x="50" y="50">0</text><text x="50" y="65">1</text><text x="50" y="80">1</text><text x="50" y="95">0</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="0.9s" repeatCount="indefinite"/>
+    <text x="50" y="20">1</text><text x="50" y="36">1</text><text x="50" y="52">0</text><text x="50" y="68">1</text><text x="50" y="84">0</text>
   </g>
-  <g fill="#39ff14" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="0.2s" repeatCount="indefinite"/>
-    <text x="70" y="20">0</text><text x="70" y="35">1</text><text x="70" y="50">0</text><text x="70" y="65">0</text><text x="70" y="80">1</text><text x="70" y="95">1</text>
+  <g fill="#39ff14" font-family="monospace" font-size="12" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="0.2s" repeatCount="indefinite"/>
+    <text x="70" y="20">0</text><text x="70" y="36">1</text><text x="70" y="52">0</text><text x="70" y="68">1</text><text x="70" y="84">1</text>
   </g>
   <g fill="#0d5008" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="1.3s" repeatCount="indefinite"/>
-    <text x="90" y="20">1</text><text x="90" y="35">0</text><text x="90" y="50">1</text><text x="90" y="65">1</text><text x="90" y="80">0</text><text x="90" y="95">1</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="1.3s" repeatCount="indefinite"/>
+    <text x="90" y="20">1</text><text x="90" y="36">0</text><text x="90" y="52">1</text><text x="90" y="68">1</text><text x="90" y="84">0</text>
   </g>
   <g fill="#20a010" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="0.6s" repeatCount="indefinite"/>
-    <text x="110" y="20">0</text><text x="110" y="35">1</text><text x="110" y="50">1</text><text x="110" y="65">0</text><text x="110" y="80">0</text><text x="110" y="95">1</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="0.6s" repeatCount="indefinite"/>
+    <text x="110" y="20">0</text><text x="110" y="36">1</text><text x="110" y="52">1</text><text x="110" y="68">0</text><text x="110" y="84">1</text>
   </g>
-  <g fill="#39ff14" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="1.7s" repeatCount="indefinite"/>
-    <text x="130" y="20">1</text><text x="130" y="35">0</text><text x="130" y="50">0</text><text x="130" y="65">1</text><text x="130" y="80">1</text><text x="130" y="95">0</text>
+  <g fill="#39ff14" font-family="monospace" font-size="12" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="1.7s" repeatCount="indefinite"/>
+    <text x="130" y="20">1</text><text x="130" y="36">0</text><text x="130" y="52">0</text><text x="130" y="68">1</text><text x="130" y="84">0</text>
   </g>
   <g fill="#0d5008" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="0.1s" repeatCount="indefinite"/>
-    <text x="150" y="20">0</text><text x="150" y="35">1</text><text x="150" y="50">0</text><text x="150" y="65">1</text><text x="150" y="80">1</text><text x="150" y="95">0</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="0.1s" repeatCount="indefinite"/>
+    <text x="150" y="20">0</text><text x="150" y="36">1</text><text x="150" y="52">0</text><text x="150" y="68">1</text><text x="150" y="84">1</text>
   </g>
   <g fill="#20a010" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="2.1s" repeatCount="indefinite"/>
-    <text x="170" y="20">1</text><text x="170" y="35">1</text><text x="170" y="50">1</text><text x="170" y="65">0</text><text x="170" y="80">0</text><text x="170" y="95">1</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="2.1s" repeatCount="indefinite"/>
+    <text x="170" y="20">1</text><text x="170" y="36">1</text><text x="170" y="52">1</text><text x="170" y="68">0</text><text x="170" y="84">1</text>
   </g>
-  <g fill="#39ff14" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="0.8s" repeatCount="indefinite"/>
-    <text x="190" y="20">0</text><text x="190" y="35">0</text><text x="190" y="50">1</text><text x="190" y="65">0</text><text x="190" y="80">1</text><text x="190" y="95">1</text>
+  <g fill="#39ff14" font-family="monospace" font-size="12" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="0.8s" repeatCount="indefinite"/>
+    <text x="190" y="20">0</text><text x="190" y="36">0</text><text x="190" y="52">1</text><text x="190" y="68">0</text><text x="190" y="84">1</text>
   </g>
   <g fill="#0d5008" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="1.5s" repeatCount="indefinite"/>
-    <text x="210" y="20">1</text><text x="210" y="35">1</text><text x="210" y="50">0</text><text x="210" y="65">1</text><text x="210" y="80">0</text><text x="210" y="95">0</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="1.5s" repeatCount="indefinite"/>
+    <text x="210" y="20">1</text><text x="210" y="36">1</text><text x="210" y="52">0</text><text x="210" y="68">1</text><text x="210" y="84">0</text>
   </g>
   <g fill="#20a010" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="0.3s" repeatCount="indefinite"/>
-    <text x="230" y="20">0</text><text x="230" y="35">0</text><text x="230" y="50">1</text><text x="230" y="65">1</text><text x="230" y="80">1</text><text x="230" y="95">0</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="0.3s" repeatCount="indefinite"/>
+    <text x="230" y="20">0</text><text x="230" y="36">0</text><text x="230" y="52">1</text><text x="230" y="68">1</text><text x="230" y="84">0</text>
   </g>
-  <g fill="#39ff14" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="2.5s" repeatCount="indefinite"/>
-    <text x="250" y="20">1</text><text x="250" y="35">0</text><text x="250" y="50">0</text><text x="250" y="65">0</text><text x="250" y="80">1</text><text x="250" y="95">1</text>
+  <g fill="#39ff14" font-family="monospace" font-size="12" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="2.5s" repeatCount="indefinite"/>
+    <text x="250" y="20">1</text><text x="250" y="36">0</text><text x="250" y="52">0</text><text x="250" y="68">0</text><text x="250" y="84">1</text>
   </g>
   <g fill="#0d5008" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="1.1s" repeatCount="indefinite"/>
-    <text x="270" y="20">0</text><text x="270" y="35">1</text><text x="270" y="50">1</text><text x="270" y="65">0</text><text x="270" y="80">0</text><text x="270" y="95">1</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="1.1s" repeatCount="indefinite"/>
+    <text x="270" y="20">0</text><text x="270" y="36">1</text><text x="270" y="52">1</text><text x="270" y="68">0</text><text x="270" y="84">1</text>
   </g>
   <g fill="#20a010" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="0.7s" repeatCount="indefinite"/>
-    <text x="290" y="20">1</text><text x="290" y="35">0</text><text x="290" y="50">1</text><text x="290" y="65">0</text><text x="290" y="80">1</text><text x="290" y="95">0</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="0.7s" repeatCount="indefinite"/>
+    <text x="290" y="20">1</text><text x="290" y="36">0</text><text x="290" y="52">1</text><text x="290" y="68">0</text><text x="290" y="84">0</text>
   </g>
-  <g fill="#39ff14" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="1.9s" repeatCount="indefinite"/>
-    <text x="310" y="20">0</text><text x="310" y="35">1</text><text x="310" y="50">0</text><text x="310" y="65">1</text><text x="310" y="80">0</text><text x="310" y="95">1</text>
+  <g fill="#39ff14" font-family="monospace" font-size="12" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="1.9s" repeatCount="indefinite"/>
+    <text x="310" y="20">0</text><text x="310" y="36">1</text><text x="310" y="52">0</text><text x="310" y="68">1</text><text x="310" y="84">1</text>
   </g>
   <g fill="#0d5008" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="0.5s" repeatCount="indefinite"/>
-    <text x="330" y="20">1</text><text x="330" y="35">1</text><text x="330" y="50">0</text><text x="330" y="65">0</text><text x="330" y="80">1</text><text x="330" y="95">0</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="0.5s" repeatCount="indefinite"/>
+    <text x="330" y="20">1</text><text x="330" y="36">1</text><text x="330" y="52">0</text><text x="330" y="68">0</text><text x="330" y="84">1</text>
   </g>
   <g fill="#20a010" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="2.3s" repeatCount="indefinite"/>
-    <text x="350" y="20">0</text><text x="350" y="35">0</text><text x="350" y="50">1</text><text x="350" y="65">1</text><text x="350" y="80">0</text><text x="350" y="95">1</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="2.3s" repeatCount="indefinite"/>
+    <text x="350" y="20">0</text><text x="350" y="36">0</text><text x="350" y="52">1</text><text x="350" y="68">1</text><text x="350" y="84">0</text>
   </g>
-  <g fill="#39ff14" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="0.0s" repeatCount="indefinite"/>
-    <text x="370" y="20">1</text><text x="370" y="35">0</text><text x="370" y="50">0</text><text x="370" y="65">1</text><text x="370" y="80">1</text><text x="370" y="95">0</text>
+  <g fill="#39ff14" font-family="monospace" font-size="12" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="0.0s" repeatCount="indefinite"/>
+    <text x="370" y="20">1</text><text x="370" y="36">0</text><text x="370" y="52">0</text><text x="370" y="68">1</text><text x="370" y="84">0</text>
   </g>
   <g fill="#0d5008" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="1.6s" repeatCount="indefinite"/>
-    <text x="390" y="20">0</text><text x="390" y="35">1</text><text x="390" y="50">1</text><text x="390" y="65">0</text><text x="390" y="80">0</text><text x="390" y="95">1</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="1.6s" repeatCount="indefinite"/>
+    <text x="390" y="20">0</text><text x="390" y="36">1</text><text x="390" y="52">1</text><text x="390" y="68">0</text><text x="390" y="84">1</text>
   </g>
   <g fill="#20a010" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="0.9s" repeatCount="indefinite"/>
-    <text x="410" y="20">1</text><text x="410" y="35">0</text><text x="410" y="50">1</text><text x="410" y="65">1</text><text x="410" y="80">1</text><text x="410" y="95">0</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="0.9s" repeatCount="indefinite"/>
+    <text x="410" y="20">1</text><text x="410" y="36">0</text><text x="410" y="52">1</text><text x="410" y="68">1</text><text x="410" y="84">0</text>
   </g>
-  <g fill="#39ff14" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="2.0s" repeatCount="indefinite"/>
-    <text x="430" y="20">0</text><text x="430" y="35">0</text><text x="430" y="50">0</text><text x="430" y="65">1</text><text x="430" y="80">0</text><text x="430" y="95">1</text>
+  <g fill="#39ff14" font-family="monospace" font-size="12" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="2.0s" repeatCount="indefinite"/>
+    <text x="430" y="20">0</text><text x="430" y="36">0</text><text x="430" y="52">0</text><text x="430" y="68">1</text><text x="430" y="84">1</text>
   </g>
   <g fill="#0d5008" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="0.4s" repeatCount="indefinite"/>
-    <text x="450" y="20">1</text><text x="450" y="35">1</text><text x="450" y="50">0</text><text x="450" y="65">1</text><text x="450" y="80">0</text><text x="450" y="95">0</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="0.4s" repeatCount="indefinite"/>
+    <text x="450" y="20">1</text><text x="450" y="36">1</text><text x="450" y="52">0</text><text x="450" y="68">1</text><text x="450" y="84">0</text>
   </g>
   <g fill="#20a010" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="1.2s" repeatCount="indefinite"/>
-    <text x="470" y="20">0</text><text x="470" y="35">1</text><text x="470" y="50">1</text><text x="470" y="65">0</text><text x="470" y="80">1</text><text x="470" y="95">1</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="1.2s" repeatCount="indefinite"/>
+    <text x="470" y="20">0</text><text x="470" y="36">1</text><text x="470" y="52">1</text><text x="470" y="68">0</text><text x="470" y="84">1</text>
   </g>
-  <g fill="#39ff14" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="0.6s" repeatCount="indefinite"/>
-    <text x="490" y="20">1</text><text x="490" y="35">0</text><text x="490" y="50">0</text><text x="490" y="65">0</text><text x="490" y="80">1</text><text x="490" y="95">0</text>
+  <g fill="#39ff14" font-family="monospace" font-size="12" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="0.6s" repeatCount="indefinite"/>
+    <text x="490" y="20">1</text><text x="490" y="36">0</text><text x="490" y="52">0</text><text x="490" y="68">0</text><text x="490" y="84">1</text>
   </g>
   <g fill="#0d5008" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="2.4s" repeatCount="indefinite"/>
-    <text x="510" y="20">0</text><text x="510" y="35">1</text><text x="510" y="50">1</text><text x="510" y="65">1</text><text x="510" y="80">0</text><text x="510" y="95">1</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="2.4s" repeatCount="indefinite"/>
+    <text x="510" y="20">0</text><text x="510" y="36">1</text><text x="510" y="52">1</text><text x="510" y="68">1</text><text x="510" y="84">0</text>
   </g>
   <g fill="#20a010" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="1.0s" repeatCount="indefinite"/>
-    <text x="530" y="20">1</text><text x="530" y="35">0</text><text x="530" y="50">1</text><text x="530" y="65">0</text><text x="530" y="80">0</text><text x="530" y="95">1</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="1.0s" repeatCount="indefinite"/>
+    <text x="530" y="20">1</text><text x="530" y="36">0</text><text x="530" y="52">1</text><text x="530" y="68">0</text><text x="530" y="84">1</text>
   </g>
-  <g fill="#39ff14" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="0.2s" repeatCount="indefinite"/>
-    <text x="550" y="20">0</text><text x="550" y="35">1</text><text x="550" y="50">0</text><text x="550" y="65">1</text><text x="550" y="80">1</text><text x="550" y="95">0</text>
+  <g fill="#39ff14" font-family="monospace" font-size="12" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="0.2s" repeatCount="indefinite"/>
+    <text x="550" y="20">0</text><text x="550" y="36">1</text><text x="550" y="52">0</text><text x="550" y="68">1</text><text x="550" y="84">0</text>
   </g>
   <g fill="#0d5008" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="1.8s" repeatCount="indefinite"/>
-    <text x="570" y="20">1</text><text x="570" y="35">0</text><text x="570" y="50">1</text><text x="570" y="65">0</text><text x="570" y="80">1</text><text x="570" y="95">1</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="1.8s" repeatCount="indefinite"/>
+    <text x="570" y="20">1</text><text x="570" y="36">0</text><text x="570" y="52">1</text><text x="570" y="68">0</text><text x="570" y="84">1</text>
   </g>
   <g fill="#20a010" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="0.7s" repeatCount="indefinite"/>
-    <text x="590" y="20">0</text><text x="590" y="35">1</text><text x="590" y="50">0</text><text x="590" y="65">1</text><text x="590" y="80">0</text><text x="590" y="95">0</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="0.7s" repeatCount="indefinite"/>
+    <text x="590" y="20">0</text><text x="590" y="36">1</text><text x="590" y="52">0</text><text x="590" y="68">1</text><text x="590" y="84">0</text>
   </g>
-  <g fill="#39ff14" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="2.2s" repeatCount="indefinite"/>
-    <text x="610" y="20">1</text><text x="610" y="35">1</text><text x="610" y="50">0</text><text x="610" y="65">0</text><text x="610" y="80">1</text><text x="610" y="95">1</text>
+  <g fill="#39ff14" font-family="monospace" font-size="12" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="2.2s" repeatCount="indefinite"/>
+    <text x="610" y="20">1</text><text x="610" y="36">1</text><text x="610" y="52">0</text><text x="610" y="68">0</text><text x="610" y="84">1</text>
   </g>
   <g fill="#0d5008" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="0.3s" repeatCount="indefinite"/>
-    <text x="630" y="20">0</text><text x="630" y="35">0</text><text x="630" y="50">1</text><text x="630" y="65">0</text><text x="630" y="80">0</text><text x="630" y="95">1</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="0.3s" repeatCount="indefinite"/>
+    <text x="630" y="20">0</text><text x="630" y="36">0</text><text x="630" y="52">1</text><text x="630" y="68">0</text><text x="630" y="84">1</text>
   </g>
   <g fill="#20a010" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="1.4s" repeatCount="indefinite"/>
-    <text x="650" y="20">1</text><text x="650" y="35">1</text><text x="650" y="50">1</text><text x="650" y="65">0</text><text x="650" y="80">1</text><text x="650" y="95">0</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="1.4s" repeatCount="indefinite"/>
+    <text x="650" y="20">1</text><text x="650" y="36">1</text><text x="650" y="52">1</text><text x="650" y="68">0</text><text x="650" y="84">0</text>
   </g>
-  <g fill="#39ff14" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="0.1s" repeatCount="indefinite"/>
-    <text x="670" y="20">0</text><text x="670" y="35">0</text><text x="670" y="50">0</text><text x="670" y="65">1</text><text x="670" y="80">0</text><text x="670" y="95">1</text>
+  <g fill="#39ff14" font-family="monospace" font-size="12" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="0.1s" repeatCount="indefinite"/>
+    <text x="670" y="20">0</text><text x="670" y="36">0</text><text x="670" y="52">0</text><text x="670" y="68">1</text><text x="670" y="84">1</text>
   </g>
   <g fill="#0d5008" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="2.6s" repeatCount="indefinite"/>
-    <text x="690" y="20">1</text><text x="690" y="35">1</text><text x="690" y="50">0</text><text x="690" y="65">1</text><text x="690" y="80">1</text><text x="690" y="95">0</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="2.6s" repeatCount="indefinite"/>
+    <text x="690" y="20">1</text><text x="690" y="36">1</text><text x="690" y="52">0</text><text x="690" y="68">1</text><text x="690" y="84">0</text>
   </g>
   <g fill="#20a010" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="0.5s" repeatCount="indefinite"/>
-    <text x="710" y="20">0</text><text x="710" y="35">0</text><text x="710" y="50">1</text><text x="710" y="65">0</text><text x="710" y="80">0</text><text x="710" y="95">1</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="0.5s" repeatCount="indefinite"/>
+    <text x="710" y="20">0</text><text x="710" y="36">0</text><text x="710" y="52">1</text><text x="710" y="68">0</text><text x="710" y="84">1</text>
   </g>
-  <g fill="#39ff14" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="1.7s" repeatCount="indefinite"/>
-    <text x="730" y="20">1</text><text x="730" y="35">1</text><text x="730" y="50">0</text><text x="730" y="65">1</text><text x="730" y="80">1</text><text x="730" y="95">0</text>
+  <g fill="#39ff14" font-family="monospace" font-size="12" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="1.7s" repeatCount="indefinite"/>
+    <text x="730" y="20">1</text><text x="730" y="36">1</text><text x="730" y="52">0</text><text x="730" y="68">1</text><text x="730" y="84">0</text>
   </g>
   <g fill="#0d5008" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="0.9s" repeatCount="indefinite"/>
-    <text x="750" y="20">0</text><text x="750" y="35">0</text><text x="750" y="50">1</text><text x="750" y="65">1</text><text x="750" y="80">0</text><text x="750" y="95">0</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="0.9s" repeatCount="indefinite"/>
+    <text x="750" y="20">0</text><text x="750" y="36">0</text><text x="750" y="52">1</text><text x="750" y="68">1</text><text x="750" y="84">1</text>
   </g>
   <g fill="#20a010" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="2.1s" repeatCount="indefinite"/>
-    <text x="770" y="20">1</text><text x="770" y="35">1</text><text x="770" y="50">0</text><text x="770" y="65">0</text><text x="770" y="80">1</text><text x="770" y="95">1</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="2.1s" repeatCount="indefinite"/>
+    <text x="770" y="20">1</text><text x="770" y="36">1</text><text x="770" y="52">0</text><text x="770" y="68">0</text><text x="770" y="84">0</text>
   </g>
-  <g fill="#39ff14" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="0.3s" repeatCount="indefinite"/>
-    <text x="790" y="20">0</text><text x="790" y="35">1</text><text x="790" y="50">1</text><text x="790" y="65">0</text><text x="790" y="80">0</text><text x="790" y="95">1</text>
+  <g fill="#39ff14" font-family="monospace" font-size="12" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="0.3s" repeatCount="indefinite"/>
+    <text x="790" y="20">0</text><text x="790" y="36">1</text><text x="790" y="52">1</text><text x="790" y="68">0</text><text x="790" y="84">1</text>
   </g>
   <g fill="#0d5008" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="1.5s" repeatCount="indefinite"/>
-    <text x="810" y="20">1</text><text x="810" y="35">0</text><text x="810" y="50">0</text><text x="810" y="65">1</text><text x="810" y="80">1</text><text x="810" y="95">0</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="1.5s" repeatCount="indefinite"/>
+    <text x="810" y="20">1</text><text x="810" y="36">0</text><text x="810" y="52">0</text><text x="810" y="68">1</text><text x="810" y="84">0</text>
   </g>
   <g fill="#20a010" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="0.6s" repeatCount="indefinite"/>
-    <text x="830" y="20">0</text><text x="830" y="35">1</text><text x="830" y="50">1</text><text x="830" y="65">0</text><text x="830" y="80">1</text><text x="830" y="95">0</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="0.6s" repeatCount="indefinite"/>
+    <text x="830" y="20">0</text><text x="830" y="36">1</text><text x="830" y="52">1</text><text x="830" y="68">0</text><text x="830" y="84">1</text>
   </g>
-  <g fill="#39ff14" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="2.8s" repeatCount="indefinite"/>
-    <text x="850" y="20">1</text><text x="850" y="35">0</text><text x="850" y="50">1</text><text x="850" y="65">0</text><text x="850" y="80">0</text><text x="850" y="95">1</text>
+  <g fill="#39ff14" font-family="monospace" font-size="12" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="2.8s" repeatCount="indefinite"/>
+    <text x="850" y="20">1</text><text x="850" y="36">0</text><text x="850" y="52">1</text><text x="850" y="68">0</text><text x="850" y="84">1</text>
   </g>
   <g fill="#0d5008" font-family="monospace" font-size="12">
-    <animateTransform attributeName="transform" type="translate" values="0,-80;0,240" dur="3.2s" begin="1.3s" repeatCount="indefinite"/>
-    <text x="870" y="20">0</text><text x="870" y="35">1</text><text x="870" y="50">0</text><text x="870" y="65">1</text><text x="870" y="80">1</text><text x="870" y="95">0</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,180" dur="3.0s" begin="1.3s" repeatCount="indefinite"/>
+    <text x="870" y="20">0</text><text x="870" y="36">1</text><text x="870" y="52">0</text><text x="870" y="68">1</text><text x="870" y="84">0</text>
   </g>
-
-  <!-- ── SEMI-TRANSPARENT OVERLAY so text is readable over rain ── -->
-  <rect width="900" height="220" fill="#000000" opacity="0.45"/>
-
-  <!-- ── NAME — large neon green with glow effect via two layers ── -->
-  <text x="450" y="108" text-anchor="middle" font-family="monospace" font-size="52" font-weight="bold" fill="#0d5008">Omprakash G</text>
-  <text x="450" y="108" text-anchor="middle" font-family="monospace" font-size="52" font-weight="bold" fill="#39ff14">Omprakash G</text>
-
-  <!-- ── SUBTITLE ── -->
-  <text x="450" y="148" text-anchor="middle" font-family="monospace" font-size="15" fill="#a8ff78">Software &amp; Data Engineer  &#x2022;  AI/ML  &#x2022;  LangChain  &#x2022;  PySpark</text>
-
-  <!-- ── Bottom wave decoration ── -->
-  <path d="M0,195 C200,175 400,210 600,190 C750,175 850,200 900,195 L900,220 L0,220 Z" fill="#0d2b00" opacity="0.8"/>
-
 </svg>
