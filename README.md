@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=680&lines=LangChain+%7C+PySpark+%7C+Django+%7C+React;From+EDA+to+production+ML+pipelines+%E2%9A%99%EF%B8%8F;Open+to+AI%2FML+%26+Data+Engineering+roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Omprakash1101&color=39ff14&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/Omprakash1101?label=Followers&style=for-the-badge&color=39ff14)](https://github.com/Omprakash1101)
 [![LeetCode](https://img.shields.io/badge/LeetCode-450%2B%20Solved-39ff14?style=for-the-badge&logo=leetcode&logoColor=000000)](https://leetcode.com/u/Omprakash_11)
 
