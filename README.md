@@ -76,18 +76,15 @@ me.say_hi()
 ---
 
 ## 💼 Experience
+### 🏢 AI/ML Intern — Widezo Pvt Ltd, Puducherry &nbsp;|&nbsp; Dec 2024 – Jan 2025
+> *AI messaging agent that processed **30K+ weekly emails**, improving efficiency by **50–80%**.*
 
-<details open>
-<summary><b>🏢 AI/ML Intern — Widezo Pvt Ltd, Puducherry</b> &nbsp;|&nbsp; Dec 2024 – Jan 2025</summary>
-<br>
+[🚀 Live Demo](https://code-visualizer-pearl.vercel.app)
 
-Live Project: [tickets-v1.streamlit.app](https://tickets-v1.streamlit.app)
-
-- 🤖 Developed an AI messaging agent that processed **30K+ weekly emails**, improving efficiency by **50–80%**
-- 🧠 Built with **LangChain** and **Google Generative AI** for advanced contextual NLP
-- 🦙 Integrated **Ollama** for local LLM inference; pipeline version-controlled on **GitHub**
-
-</details>
+eveloped a powered AI messaging agent through advanced contextual understanding using **LangChain** and **Google Generative 
+AI**, demonstrating expertise in **natural language processing and AI integration**. 
+  
+`Langchain` `Google Generation AI` `Ollama` `Github`
 
 ---
 
@@ -96,10 +93,10 @@ Live Project: [tickets-v1.streamlit.app](https://tickets-v1.streamlit.app)
 ### 🖥️ [Code Visualizer](https://code-visualizer-pearl.vercel.app)
 > *Interactive platform that visually explains program execution*
 
-Created a visualization platform improving **debugging efficiency** and **algorithm comprehension**. CI/CD via GitHub Actions.
+Created an interactive code visualization platform that visually explains 
+program execution, improving **debugging efficiency** and **algorithm comprehension**.
 
-`React` `Django` `GitHub Actions`
-&nbsp;·&nbsp; [🚀 Live Demo](https://code-visualizer-pearl.vercel.app) &nbsp;·&nbsp; [📂 Source](https://github.com/Omprakash1101)
+`React` `Django` `GitHub Actions` `ast`
 
 ---
 
@@ -109,7 +106,6 @@ Created a visualization platform improving **debugging efficiency** and **algori
 Feature engineering, **SMOTEENN balancing**, and ensemble of LR + RF + XGBoost — achieving **~0.95 AUC**.
 
 `Pandas` `NumPy` `Scikit-learn` `XGBoost`
-&nbsp;·&nbsp; [📓 Open in Colab](https://colab.research.google.com/drive/1irdqZmhPT0hYSBK7wvwm9_m0mTguTWts?usp=sharing)
 
 ---
 
@@ -119,7 +115,6 @@ Feature engineering, **SMOTEENN balancing**, and ensemble of LR + RF + XGBoost �
 Distributed EDA with **PySpark** on **Databricks** to engineer features and predict delivery durations.
 
 `PySpark` `Pandas` `Databricks`
-&nbsp;·&nbsp; [📂 GitHub Repo](https://github.com/Omprakash1101/Delivery_Duration_Prediction)
 
 ---
 
@@ -127,7 +122,7 @@ Distributed EDA with **PySpark** on **Databricks** to engineer features and pred
 
 | Certificate | Issuer | Date | Credential ID |
 |---|---|---|---|
-| 📊 Data Analytics Job Simulation | Deloitte via Forage | Oct 2025 | `QE6bx5RDs9N2KFfod` |
+| 📊 Data Analytics Job Simulation | Forage | Oct 2025 | `QE6bx5RDs9N2KFfod` |
 | 🗄️ SQL (Advanced) | HackerRank | Aug 2025 | `94D54CBB8A3C` |
 
 ---
@@ -153,7 +148,6 @@ Distributed EDA with **PySpark** on **Databricks** to engineer features and pred
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-39ff14?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/omprakash-g-a8a906244)
 [![LeetCode](https://img.shields.io/badge/LeetCode-39ff14?style=for-the-badge&logo=leetcode&logoColor=000000)](https://leetcode.com/u/Omprakash_11)
 [![Gmail](https://img.shields.io/badge/Gmail-39ff14?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:omprakashgopi2k05@gmail.com)
-[![Live Project](https://img.shields.io/badge/Live_Demo-39ff14?style=for-the-badge&logo=streamlit&logoColor=000000)](https://tickets-v1.streamlit.app)
 
 </div>
 
