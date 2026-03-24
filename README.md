@@ -17,17 +17,17 @@
 class SoftwareDataEngineer:
     def __init__(self):
         self.name        = "Omprakash G"
-        self.location    = "Chennai, India"
+        self.location    = "Vellore, TN, IN"
         self.education   = "B.Tech IT — Easwari Engineering College (2022-2026)"
         self.cgpa        = "7.88 / 10"
         self.role        = "Software and Data Engineer | AI/ML"
         self.email       = "omprakashgopi2k05@gmail.com"
-        self.expertise   = ["LangChain Agents", "PySpark", "ML Pipelines", "React + Django"]
+        self.expertise   = ["Python","LangChain Agents", "PySpark", "ML Pipelines", "React + Django"]
         self.leetcode    = "450+ problems solved"
         self.fun_fact    = "I turn messy datasets into clean decisions"
 
     def say_hi(self):
-        print("Thanks for visiting! Let's build something intelligent. 🤖")
+        print("Thanks for visiting! Let's build something intelligent.")
 
 me = SoftwareDataEngineer()
 me.say_hi()
@@ -45,7 +45,6 @@ me.say_hi()
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0d2b00?style=for-the-badge&logo=scikit-learn&logoColor=39ff14)
 ![NumPy](https://img.shields.io/badge/NumPy-0d2b00?style=for-the-badge&logo=numpy&logoColor=39ff14)
 ![Pandas](https://img.shields.io/badge/Pandas-0d2b00?style=for-the-badge&logo=pandas&logoColor=39ff14)
-![Google Generative AI](https://img.shields.io/badge/Google_GenAI-0d2b00?style=for-the-badge&logo=google&logoColor=39ff14)
 ![Ollama](https://img.shields.io/badge/Ollama-0d2b00?style=for-the-badge&logo=ollama&logoColor=39ff14)
 
 ### 📊 Big Data & Engineering
@@ -78,9 +77,9 @@ me.say_hi()
 ### 🏢 AI/ML Intern — Widezo Pvt Ltd, Puducherry &nbsp;|&nbsp; Dec 2024 – Jan 2025
 > *AI messaging agent that processed **30K+ weekly emails**, improving efficiency by **50–80%**.*
 
-[🚀 Live Demo](https://code-visualizer-pearl.vercel.app)
+[🚀 Live Demo](https://tickets-v1.streamlit.app/)
 
-eveloped a powered AI messaging agent through advanced contextual understanding using **LangChain** and **Google Generative 
+Developed a powered AI messaging agent through advanced contextual understanding using **LangChain** and **Google Generative 
 AI**, demonstrating expertise in **natural language processing and AI integration**. 
   
 `Langchain` `Google Generation AI` `Ollama` `Github`
