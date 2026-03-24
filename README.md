@@ -129,8 +129,6 @@ Distributed EDA with **PySpark** on **Databricks** to engineer features and pred
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omprakash1101&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=39ff14&icon_color=39ff14&text_color=a8ff78"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omprakash1101&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=000000&title_color=39ff14&text_color=a8ff78"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Omprakash1101&theme=dark&hide_border=true&background=000000&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=a8ff78&dates=a8ff78&currStreakNum=39ff14&sideNums=a8ff78)](https://git.io/streak-stats)
