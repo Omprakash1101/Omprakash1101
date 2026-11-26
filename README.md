@@ -19,10 +19,10 @@ class SoftwareDataEngineer:
         self.name        = "Omprakash G"
         self.location    = "Vellore, TN, IN"
         self.education   = "B.Tech IT — Easwari Engineering College (2022-2026)"
-        self.cgpa        = "7.88 / 10"
+        self.cgpa        = "7.97 / 10"
         self.role        = "Software and Data Engineer | AI/ML"
         self.email       = "omprakashgopi2k05@gmail.com"
-        self.expertise   = ["Python","LangChain Agents", "PySpark", "ML Pipelines", "React + Django"]
+        self.expertise   = ["Python", "PySpark", "ML Pipelines", "React + Django"]
         self.leetcode    = "450+ problems solved"
         self.fun_fact    = "I turn messy datasets into clean decisions"
 
